@@ -24,6 +24,9 @@
 <a href="https://medium.com/@alnesr502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 <a href="https://tryhackme.com/r/p/belalfergani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="TryHackMe" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/belal_fergani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+     <a href="https://wa.me/201227897361" target="_blank" rel="nofollow">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Chat on WhatsApp" height="30" width="40" style="max-width: 100%;">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
